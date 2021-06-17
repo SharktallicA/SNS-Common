@@ -7,7 +7,6 @@
     https://github.com/SharktallicA
 */
 
-
 #include <cmath>
 #include <string>
 
