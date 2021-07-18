@@ -87,7 +87,7 @@ public:
      * Flags if one or both of the vector's components
      * currently have non-numerical values.
      */
-    bool nan()
+    bool is_nan()
     {
         if (isnan(x) || isnan(y))
             return true;

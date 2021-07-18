@@ -19,7 +19,7 @@ using namespace std;
 
 // Task to run when the lowLevelMouseProc
 // receives a message.
-function<void(const char*, MSLLHOOKSTRUCT*)> hook_task;
+function<void(string, MSLLHOOKSTRUCT*)> hook_task;
 
 // This is the LowLevelMouseProc implementation
 // Your implementation must be fast, otherwise
