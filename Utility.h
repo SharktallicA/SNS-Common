@@ -2,9 +2,7 @@
 
 /*
 	C++ general utility functions library
-	SharktasticA 2016
-	https://sharktastica.co.uk
-	https://github.com/SharktallicA
+    kali 2016-2022
 */
 
 #include <iostream>

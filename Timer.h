@@ -2,9 +2,7 @@
 
 /*
 	Thread-based timer class
-    SharktasticA 2020
-	https://sharktastica.co.uk
-    https://github.com/SharktallicA
+    kali 2020-2022
 */
 
 #include <iostream>

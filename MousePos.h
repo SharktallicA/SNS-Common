@@ -2,8 +2,7 @@
 
 /*
     Mouse position functions library
-    SharktasticA 2020
-    https://sharktastica.co.uk
+    kali 2020-2022
 */
 
 #ifdef _WIN32

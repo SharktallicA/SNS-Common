@@ -2,9 +2,7 @@
 
 /*
 	Win32 mouse hook helper
-	SharktasticA 2021
-	https://sharktastica.co.uk
-    https://github.com/SharktallicA
+    kali 2021-2022
 
     Based on code by Julien Harbulot
     https://scripting.tips
